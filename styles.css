@@ -443,12 +443,12 @@ display: block;
 }
 
 .popup__close {
-  background-image: url(/assets/popup_close.svg);
+  background-image: url(assets/popup_close.svg);
   width: 27px;
   height: 27px;
   background-color: transparent;
   background-size: 27px;
-  background-repeat: no-repeat;
+  background-repeat: no-repeat; 
   background-position: center;
   position: absolute;
   top: -27px;
